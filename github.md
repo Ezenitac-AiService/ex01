@@ -5,3 +5,12 @@ git remote add origin https://github.com/Ezenitac-AiService/ex01.git
 git branch -M main
 git push -u origin main
 ```
+
++ 내 git 저장소에 파일 변경사항이 발생
+  + add
+  + commit
+
++ 내 git 저장소의 커밋 내역을 github 저장소에 올리기
+```bash
+git push -u origin main
+```
