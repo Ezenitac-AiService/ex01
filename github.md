@@ -14,3 +14,7 @@ git push -u origin main
 ```bash
 git push -u origin main
 ```
++ github 저장소의 변경 내역을 받아오기
+```bash
+git pull origin main
+```
